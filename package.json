@@ -1,0 +1,30 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Node application",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trent21/liribot.git"
+  },
+  "keywords": [
+    "LIRI",
+    "liri",
+    "bot",
+    "node"
+  ],
+  "author": "Trent Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trent21/liribot.git"
+  },
+  "homepage": "https://github.com/Trent21/liribot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
